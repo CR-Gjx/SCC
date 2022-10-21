@@ -11,7 +11,7 @@ The translated images are shown as follows:
 
 You can directly insert the codes of SCC into [GcGAN](https://github.com/hufu6371/GcGAN/tree/master/models), and run the codes following GcGAN scripts.
 
-Specifically, please set the 
+Specifically, please set  
 ```
 batch_size = 1
 ```

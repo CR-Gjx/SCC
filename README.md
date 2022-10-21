@@ -6,7 +6,7 @@ The SCC loss aims to reduce the geometrical distortion during the image translat
 
 The translated images are shown as follows:
 
-![](https://github.com/CR-Gjx/SCC/blob/master/figures/scc.jpg)
+![](https://github.com/CR-Gjx/SCC/figures/scc.jpg)
  
 
 You can directly insert the codes of SCC into [GcGAN](https://github.com/hufu6371/GcGAN/tree/master/models), and run the codes following GcGAN scripts.

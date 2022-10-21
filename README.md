@@ -5,4 +5,7 @@ Pytorch implementation of "[Alleviating Semantics Distortion in Unsupervised Low
 
 You can directly insert the codes of SCC into [GcGAN](https://github.com/hufu6371/GcGAN/tree/master/models), and run the codes following GcGAN scripts.
 
-Specifically, please set the batch_size = 1
+Specifically, please set the 
+```
+batch_size = 1
+```
